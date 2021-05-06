@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mohammed Huzaifa
 - 👀 I’m a passionate and aan energetic Full Stack Developer
-- 📫 Reach ou to me here 👇
+- 📫 Reach out to me here 👇
 - Linkedin 👉 https://www.linkedin.com/in/precioushuzaifa/ 
 - Instagram 👉 https://www.instagram.com/precious_huzaifa/
 - Twitter 👉 https://twitter.com/PreciousHuzaifa
