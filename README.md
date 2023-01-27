@@ -34,10 +34,7 @@
   ![Canva](https://img.shields.io/badge/-Canva-333333?style=flat&logo=canva)
 <br/>
 
-<a href="https://github.com/Huzaifa785">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Huzaifa785&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Huzaifa785&theme=buefy&layout=compact" />
-</a>
+[![Huzaifa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Huzaifa785)](https://github.com/Huzaifa785/github-readme-stats)
 
 <br/>
 
