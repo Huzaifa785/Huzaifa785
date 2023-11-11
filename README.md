@@ -42,6 +42,5 @@
 
 <p>
 <a href="https://www.linkedin.com/in/immdhuzaifa/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Huzaifa%20Mohammed-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/immdhuzaifa/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-precious_huzaifa-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:huzaifa.coder785@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-huzaifa.coder785@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
