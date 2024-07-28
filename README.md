@@ -3,7 +3,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🚀 &nbsp; A 18 year old smart software developer.
+- 🚀 &nbsp; A 19-year-old guy who loves to engineer startups.
 - 🎓 &nbsp; Studying Artificial Intelligence & Machine Learning at MIT, Aurangabad, Maharashtra, India.
 - 🌱 &nbsp; Learning more about Full Stack development, artificial intelligence and machine learning.
 
