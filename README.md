@@ -34,10 +34,6 @@
   ![Canva](https://img.shields.io/badge/-Canva-333333?style=flat&logo=canva)
 <br/>
 
-[![Huzaifa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Huzaifa785)](https://github.com/Huzaifa785/github-readme-stats)
-
-<br/>
-
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p>
