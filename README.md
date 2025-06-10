@@ -13,7 +13,7 @@
 **`I don't just ship code.`**  
 **`I architect digital consciousness.`**
 
-*Building the invisible infrastructure that makes impossible feel inevitable.*
+*Designing tools at the intersection of cloud and cognition.*
 
 </div>
 
